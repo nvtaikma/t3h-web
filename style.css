@@ -1,0 +1,25 @@
+.topbar{
+    background: linear-gradient(90deg, #ffd900 0%,#ffbb00 100%);
+    width: 100%;
+    height: 35px;
+    
+}
+.topbar-right{
+    width: 50%;
+    margin-right: 30%;
+    padding: 8px;
+    color: #ffffff;
+    
+}
+.container-2 input#search:focus, .container-2 input#search:active{
+    outline:none;
+    width: 100px;
+  }
+   
+  .container-2:hover input#search{
+  width: 100px;
+  }
+   
+  .container-2:hover .icon{
+    color: #93a2ad;
+  }
